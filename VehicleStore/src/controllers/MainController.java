@@ -3,7 +3,7 @@
  * Created Date: 2021-09-24 22:21:42
  * Original author: Sallai Andras
  * Author: Korcsmáros Kende Andras SZOFTII_I/N
- * Github: https://github.com/andteki
+ * Github: github.com/KendeAndras
  * -----
  * Last Modified: 2021-10-21
  * Modified By: Korcsmaros Kende Andras
